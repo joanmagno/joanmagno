@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- ₊˚ʚ Joan Pasana ɞ˚₊
+ ₊˚ʚ Joan Magno ɞ˚₊
 
 ୨୧ Hi there! I'm Joan, an aspiring developer learning to turn ideas into reality through code. 💻
 
