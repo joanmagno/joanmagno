@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# ₊˚ʚ Joan Pasana ɞ˚₊
+ ₊˚ʚ Joan Pasana ɞ˚₊
 
 ୨୧ Hi there! I'm Joan, an aspiring developer learning to turn ideas into reality through code. 💻
 
@@ -8,7 +8,6 @@
 - 🎀 Beginner developer exploring the world of programming
 - 💻 Learning new technologies and building my skills
 - 🌱 Growing one project at a time
-- 🐈 Cat lover who enjoys a little creativity in everything
 - ✨ My goal is to create meaningful things and never stop learning
 
 ### ୨୧ My Goals
