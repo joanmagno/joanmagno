@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Let's connect! 💜
+
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?logo=discord&logoColor=white)](https://discord.com/users/884627087057629195)
